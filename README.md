@@ -1,8 +1,8 @@
 # SOC Attack Automation (Bash)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DNA-CyberSec/ReconXpert)
-![GitHub contributors](https://img.shields.io/github/contributors/DNA-CyberSec/ReconXpert)
-![License](https://img.shields.io/github/license/DNA-CyberSec/ReconXpert)
+![GitHub repo size](https://img.shields.io/github/repo-size/DNA-CyberSec/SOC-Attack-Automation)
+![GitHub contributors](https://img.shields.io/github/contributors/DNA-CyberSec/SOC-Attack-Automation)
+![License](https://img.shields.io/github/license/DNA-CyberSec/SOC-Attack-Automation)
 
 A Bash script for automating SOC attack simulations. Includes Nmap scanning, Hydra brute-force, Hping3 DoS, and Metasploit exploits.
 
